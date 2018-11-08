@@ -1,8 +1,8 @@
 def my_hash
   your_hash = {
-          "name" => "Thompson"
-          "weight" => 210
-          "height" => 70
+          "name" => "Thompson",
+          "weight" => 210,
+          "height" => 70,
           "league_rank" => "Silver I"
   }
 
